@@ -1,15 +1,16 @@
-<h2>Darwin Calderón</h2>
+<h2>Darwin Calderon</h2>
 
-<img src="C:\Users\Owner\Documents\UNIVERSIDAD\PROGRAMACIÓN PARA VIDEO JUEGOS\Tarea 1\DarwinCalderon\DarwinCalderon.webp"
-width="800" height="600">
+<img src="DarwinCalderon/DarwinCalderon.jpg" alt="Foto Darwin Calderon" width="800" height="600">
+
+
 
 <h3>Rol Escogido</h3>
-<p>Diseñador Gráfico y Editor Multimedia</p>
+<p>Diseï¿½ador Grï¿½fico y Editor Multimedia</p>
 
-<h3>Ubicación</h3>
+<h3>Ubicaciï¿½n</h3>
 <p>Bucaramanga - Colombia</p>
 
 <h3>PErfil</h3>
-<p>Estudiante del programa Ingeniería Multimedia, con una trayectoria laboral de 7 años en el área de diseño gráfico y asesor comercial,
+<p>Estudiante del programa Ingenierï¿½a Multimedia, con una trayectoria laboral de 7 aï¿½os en el ï¿½rea de diseï¿½o grï¿½fico y asesor comercial,
 mi meta es poder graduarme y aportar cada uno de los conocimientos obtenidos en mi labor como profesional y mi diario vivir, siempre llevando
-todo un paso más allá.</p>
+todo un paso mï¿½s allï¿½.</p>
