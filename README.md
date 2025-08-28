@@ -9,7 +9,7 @@
 
 # Sergio Calvo
 
-![Foto Sergio](./sergiocalvo.png)
+![Foto Sergio](./Sergio_Calvo/sergiocalvo.png)
 
 ## Rol en la industria
 Diseñador Gráfico y Desarrollador Multimedia
