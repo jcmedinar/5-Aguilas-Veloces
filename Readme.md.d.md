@@ -1,6 +1,6 @@
 <h2>Darwin Calderon</h2>
 
-<img src="DarwinCalderon/DarwinCalderon.jpg" alt="Foto Darwin Calderon" width="800" height="600">
+<img src="DarwinCalderon/DarwinCalderon.jpg" alt="Foto Darwin Calderon">
 
 
 
