@@ -57,3 +57,23 @@ Me interesa el uso de la tecnología en la educación, la publicidad y el entret
 <p>Estudiante del programa Ingenier�a Multimedia, con una trayectoria laboral de 7 a�os en el �rea de dise�o gr�fico y asesor comercial,
 mi meta es poder graduarme y aportar cada uno de los conocimientos obtenidos en mi labor como profesional y mi diario vivir, siempre llevando
 todo un paso m�s all�.</p>
+
+
+---
+
+<div>
+
+    <h1>Sofía Naranjo</h1>
+    <img src="/Sofia_Naranjo/sofia.jpg" alt="Foto Sofía Naranjo" height="350" loading="lazy">
+
+    <h3>Rol en la industria</h3>
+    <p><strong>Game Designer</strong></p>
+
+    <h3>Ubicación</h3>
+    <p>Bucaramanga, Santander, Colombia</p>
+
+    <h3>Perfil</h3>
+    <p>Mi nombre es Sofía Naranjo Díaz, estudiante de Ingeniería Multimedia, apasionada por el diseño y desarrollo de videojuegos. 
+    Me interesa crear experiencias interactivas innovadoras y en el futuro quiero realizar un diplomado en diseño de videojuegos en Canadá.</p>
+
+</div>
