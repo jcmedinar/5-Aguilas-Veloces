@@ -61,19 +61,15 @@ todo un paso m�s all�.</p>
 
 
 
-<div>
-
-    <h1>Sofía Naranjo</h1>
+ <h1>Sofía Naranjo</h1>
     <img src="/Sofia_Naranjo/sofia.jpg" alt="Foto Sofía Naranjo" height="350" loading="lazy">
 
-    <h3>Rol en la industria</h3>
+<h3>Rol en la industria</h3>
     <p><strong>Game Designer</strong></p>
 
-    <h3>Ubicación</h3>
+ <h3>Ubicación</h3>
     <p>Bucaramanga, Santander, Colombia</p>
 
-    <h3>Perfil</h3>
+ <h3>Perfil</h3>
     <p>Mi nombre es Sofía Naranjo Díaz, estudiante de Ingeniería Multimedia, apasionada por el diseño y desarrollo de videojuegos. 
     Me interesa crear experiencias interactivas innovadoras y en el futuro quiero realizar un diplomado en diseño de videojuegos en Canadá.</p>
-
-</div>
