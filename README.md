@@ -1,8 +1,11 @@
 <h1>Julio Medina</h1>
 <img src="/Julio Medina/JulioMedina.jpg" alt="foto estudiante" width="650" height="650" loading="lazy">
-<p>El rol de la industria que ha escogido</p>
+<h3>Rol en la industria<h3>
+<p>Marketing Multimedia y Producción Fotográfica</p>
+<h3>Ubicación<h3>
 <p>La Guajira</p>
-<p>Estudiante de Ingeniería Multimedia del CEAD La Guajira. Es un gusto que sea parte de mi proceso de formación profesional, ¡Saludos!</p>
+<h3>Perfil<h3>
+<p>Me enfoco mas al marketing multimedia que fue mi línea de profundización, conociendo proceso de producción de imagen, audio y video, tengo un emprendimiento en fotografía de eventos y me familiarizo con el uso de herramientas como la suite de Adobe, Canva, figma, Wix.</p>
 
 <div>
     <h1>Jose Jaimes</h1>
@@ -14,7 +17,6 @@
     <img src="/jose/lasaña.jpg" alt="lasaña" height="240" loading="lazy">
 
 </div>
-<p>Estudiante de Ingenier�a Multimedia del CEAD La Guajira. Es un gusto que sea parte de mi proceso de formaci�n profesional, �Saludos!</p>
 
 
 ---
