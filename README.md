@@ -78,8 +78,5 @@ todo un paso m�s all�.</p>
     Me interesa crear experiencias interactivas innovadoras y en el futuro quiero realizar un diplomado en diseño de videojuegos en Canadá.</p>
 
 <h3>Comida favorita</h3>
-<p>Tacos de Birria</p>
-
-<p align="center">
-  <img src="Sofia_Naranjo/tacos.jpg" alt="Tacos De Birria" height="300">
-</p>
+<p>Tacos de Birris</p>
+<img src="Sofia_Naranjo/tacos.jpg" alt="Tacos De Birria" height="200">
