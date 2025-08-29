@@ -59,7 +59,7 @@ mi meta es poder graduarme y aportar cada uno de los conocimientos obtenidos en 
 todo un paso m�s all�.</p>
 
 
----
+
 
 <div>
 
