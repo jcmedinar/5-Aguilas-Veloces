@@ -62,7 +62,10 @@ todo un paso m�s all�.</p>
 
 
  <h1>Sofía Naranjo</h1>
-    <img src="/Sofia_Naranjo/sofia.jpg" alt="Foto Sofía Naranjo" height="350" loading="lazy">
+
+<p align="center">
+  <img src="Sofia_Naranjo/sofia.jpg" alt="Foto Sofía Naranjo" height="350">
+</p>
 
 <h3>Rol en la industria</h3>
     <p><strong>Game Designer</strong></p>
