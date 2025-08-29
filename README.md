@@ -77,3 +77,8 @@ todo un paso m�s all�.</p>
     <p>Mi nombre es Sofía Naranjo Díaz, estudiante de Ingeniería Multimedia, apasionada por el diseño y desarrollo de videojuegos. 
     Me interesa crear experiencias interactivas innovadoras y en el futuro quiero realizar un diplomado en diseño de videojuegos en Canadá.</p>
 
+<h3>Comida favorita</h3>
+<p>Tacos De Birria</p>
+<p align="center">
+<img src="Sofia_Naranjo/tacosdebirria.jpg" alt="Tacos De Birria" height="200">
+</p>
