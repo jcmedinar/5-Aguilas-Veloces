@@ -48,15 +48,15 @@ Me interesa el uso de la tecnología en la educación, la publicidad y el entret
 
 
 <h3>Rol Escogido</h3>
-<p>Dise�ador Gr�fico y Editor Multimedia</p>
+<p>Diseñador Gráfico y Editor Multimedia</p>
 
-<h3>Ubicaci�n</h3>
+<h3>Ubicación</h3>
 <p>Bucaramanga - Colombia</p>
 
 <h3>PErfil</h3>
-<p>Estudiante del programa Ingenier�a Multimedia, con una trayectoria laboral de 7 a�os en el �rea de dise�o gr�fico y asesor comercial,
+<p>Estudiante del programa Ingeniería Multimedia, con una trayectoria laboral de 7 años en el área de diseño gráfico y asesor comercial,
 mi meta es poder graduarme y aportar cada uno de los conocimientos obtenidos en mi labor como profesional y mi diario vivir, siempre llevando
-todo un paso m�s all�.</p>
+todo un paso más allá.</p>
 
 
 
