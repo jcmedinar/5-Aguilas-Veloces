@@ -9,18 +9,21 @@
 
 ---
 
+<h1>Jose Jaimes</h1>
+<img src="/jose/jose.jpeg" alt="foto estudiante Jose Jaimes" height="350" loading="lazy">
 
-<div>
-    <h1>Jose Jaimes</h1>
-    <img src="/jose/jose.jpeg" alt="foto estudiante Jose Jaimes" height="350" loading="lazy">
-    <p><strong>Rol: Diseñador de sonido.</strong> Encargado de crear, seleccionar y mezclar todos los elementos sonoros del juego</p>
-    <p><strong>Ubicación:</strong> Cúcuta, Norte de Santander - Colombia</p>
-    <p>Mi nombre es Jose David Jaimes Hernandez, estudiante de Ingeniería Multimedia del CEAD ZCORI (Zona Centro Oriente), tengo 24 años y me apasiona la tecnología. Apoyaré el desarrollo de este proyecto con todas mis habilides y nuevos aprendizajes. </p>
-    <p>Mi comida favorita es la Lasaña<p>
-    <img src="/jose/lasaña.jpg" alt="lasaña" height="240" loading="lazy">
+<h3>Rol en la industria</h3>
+<p>Diseñador de sonido</p>
 
-</div>
+<h3>Rol en la industria</h3>
+<p>Cúcuta - Colombia</p>
 
+<h3>Perfil</h3>
+<p>Mi nombre es Jose David Jaimes Hernandez, estudiante de Ingeniería Multimedia del CEAD ZCORI (Zona Centro Oriente), tengo 24 años y me apasiona la tecnología. Apoyaré el desarrollo de este proyecto con todas mis habilides y nuevos aprendizajes. </p>
+
+<h3>Comida favorita</h3>
+<p>Lasaña<p>
+<img src="/jose/lasaña.jpg" alt="lasaña" height="240" loading="lazy">
 
 ---
 
