@@ -61,6 +61,7 @@ Me interesa el uso de la tecnología en la educación, la publicidad y el entret
 mi meta es poder graduarme y aportar cada uno de los conocimientos obtenidos en mi labor como profesional y mi diario vivir, siempre llevando
 todo un paso más allá.</p>
 
+<h3>Comida Favorita</h3>
 <p>Mi comida favorita es la Pechuga a la Plancha</p>
     <img src="DarwinCalderon/PechugaPlancha.jpg" alt="Pechuga a la Plancha">
 
