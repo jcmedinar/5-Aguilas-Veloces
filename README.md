@@ -56,10 +56,11 @@ Me interesa el uso de la tecnología en la educación, la publicidad y el entret
 <h3>Ubicación</h3>
 <p>Bucaramanga - Colombia</p>
 
-<h3>PErfil</h3>
+<h3>Perfil</h3>
 <p>Estudiante del programa Ingeniería Multimedia, con una trayectoria laboral de 7 años en el área de diseño gráfico y asesor comercial,
 mi meta es poder graduarme y aportar cada uno de los conocimientos obtenidos en mi labor como profesional y mi diario vivir, siempre llevando
 todo un paso más allá.</p>
+
 <p>Mi comida favorita es la Pechuga a la Plancha</p>
     <img src="DarwinCalderon/PechugaPlancha.jpg" alt="Pechuga a la Plancha">
 
